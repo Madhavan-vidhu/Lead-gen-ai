@@ -1,0 +1,201 @@
+Name,Email,Company,Industry,Role,Location,CompanySize,PastInteractionScore,LeadScore
+Mr. Edward Paul,mallen@example.com,GreenEnergy,Finance,VP,Seattle,655,0.11,0
+Jennifer Williams,santosrebecca@example.net,GreenEnergy,Energy,Engineer,San Francisco,70,0.69,0
+Brittany David,melissakent@example.org,TechSoft,Construction,Engineer,San Francisco,719,0.18,0
+Jeremy Villarreal,patricia35@example.com,TechSoft,Finance,Engineer,Chicago,353,0.74,0
+Lindsay Trujillo,lloyddaniel@example.net,GreenEnergy,Automotive,VP,Chicago,101,0.72,1
+Cheryl Cunningham,courtney71@example.org,AutoDrive,Software,VP,Chicago,653,0.3,0
+Taylor Ortiz,janetchoi@example.org,GreenEnergy,Energy,Consultant,Boston,354,0.9,0
+Monica Conner,tyler93@example.org,HealthPlus,Software,Manager,Seattle,413,0.09,0
+Alexis Stewart,alexander17@example.net,TechSoft,Software,VP,Austin,415,0.51,1
+Scott Thompson,johnlloyd@example.org,HealthPlus,Education,Manager,San Francisco,231,0.32,0
+Jacob Bishop,hwallace@example.org,EduWorks,Finance,Analyst,San Francisco,111,0.45,0
+Bailey Howell,kimberlyberry@example.com,AutoDrive,Finance,Intern,Austin,774,0.34,0
+Steven Herrera,littledana@example.net,BuildCorp,Software,Analyst,San Francisco,717,0.39,0
+Mrs. Melissa Morgan,tanya85@example.org,GreenEnergy,Healthcare,Manager,Chicago,723,0.37,0
+Aaron Alvarez,nicholashudson@example.org,GreenEnergy,Software,Analyst,Seattle,223,0.19,0
+Darren Gonzalez,orremma@example.org,AutoDrive,Software,Engineer,New York,401,0.75,0
+Erica Ramirez,whitenathaniel@example.com,TechSoft,Automotive,Manager,Boston,726,0.93,1
+Michelle Smith,dunnstephanie@example.com,TechSoft,Education,Intern,Boston,988,0.5,0
+Tina West,anthonymcclain@example.org,HealthPlus,Energy,Engineer,San Francisco,165,0.62,0
+Joann Chung,patricklester@example.org,FinServe,Software,Engineer,New York,150,0.83,0
+Bryan Moyer,kristi70@example.com,HealthPlus,Construction,Director,Chicago,172,0.28,0
+Keith Moore,andrew71@example.com,AutoDrive,Energy,Engineer,Denver,528,0.26,0
+Victoria Johnson,abaldwin@example.org,TechSoft,Construction,Intern,San Francisco,61,0.94,0
+Carol Chambers,ujohnson@example.net,GreenEnergy,Construction,Director,Denver,224,0.76,1
+Alexander Lee,fgilmore@example.net,GreenEnergy,Education,Intern,Chicago,114,0.46,0
+James Bailey,lorettaflores@example.org,BuildCorp,Education,Manager,Denver,580,0.2,0
+Alexa Martinez,frodriguez@example.net,BuildCorp,Education,Engineer,New York,758,0.2,0
+Brooke Scott,kendra04@example.org,GreenEnergy,Finance,Manager,Denver,613,0.68,1
+David Burgess,rebeccabennett@example.com,BuildCorp,Automotive,Director,Seattle,189,0.54,1
+David Allen,christophergarcia@example.com,FinServe,Finance,VP,Boston,638,0.59,1
+Shannon Sexton,sandrafrank@example.com,TechSoft,Energy,Engineer,Denver,595,0.77,0
+Carlos Martin,kgutierrez@example.net,HealthPlus,Education,Analyst,New York,279,0.31,0
+Eric Brewer,jenniferjimenez@example.org,AutoDrive,Healthcare,Director,Chicago,732,0.96,1
+Caleb Baxter,stevenprice@example.com,GreenEnergy,Education,Intern,San Francisco,234,0.89,0
+Jennifer James,clarkamber@example.net,HealthPlus,Finance,Consultant,San Francisco,70,0.63,0
+Ashley Dennis,joseph20@example.org,TechSoft,Healthcare,Intern,Austin,982,0.57,0
+Sandra Martin,oespinoza@example.org,BuildCorp,Construction,Manager,Denver,543,1.0,1
+Billy Rogers,williamsmatthew@example.net,EduWorks,Healthcare,Consultant,New York,186,0.14,0
+Maurice Frank,toddgregory@example.org,GreenEnergy,Education,Analyst,Denver,168,0.89,0
+Robin Williams,vfrazier@example.com,BuildCorp,Construction,VP,Boston,764,0.84,1
+Ryan Williams,duffyfelicia@example.org,AutoDrive,Construction,Manager,Seattle,970,0.57,1
+Victor Jones,loganjeffrey@example.org,TechSoft,Healthcare,Analyst,Boston,400,0.8,0
+Mary Mcdowell,nlopez@example.com,GreenEnergy,Construction,Analyst,Boston,307,0.3,0
+Thomas Grant,cpacheco@example.com,BuildCorp,Software,Manager,Austin,601,0.6,1
+Robert Smith,matthewjones@example.com,FinServe,Energy,Intern,Seattle,620,0.41,0
+Heather Valentine,jenny14@example.com,TechSoft,Construction,Analyst,Denver,913,0.65,0
+Brian Lee,colemanmonique@example.org,EduWorks,Education,VP,Boston,103,0.69,1
+Ann Rich,jessicarogers@example.net,GreenEnergy,Software,Engineer,Seattle,109,0.97,0
+Hailey Hayes,cynthia68@example.net,FinServe,Healthcare,VP,San Francisco,950,0.58,1
+Teresa King,boothbecky@example.org,GreenEnergy,Energy,Intern,Chicago,199,0.01,0
+Michelle Young,johnsmith@example.org,FinServe,Automotive,Manager,San Francisco,652,0.5,0
+Jimmy Martinez,wrightamy@example.org,HealthPlus,Finance,Director,Austin,235,0.68,1
+Brianna Wade,bwoods@example.com,AutoDrive,Education,VP,Chicago,341,0.28,0
+Richard Noble,anthony87@example.com,AutoDrive,Education,Consultant,Austin,493,0.1,0
+Anna Williams,nicole13@example.org,FinServe,Energy,Engineer,Denver,757,0.64,0
+Dennis Mccoy,angelaramirez@example.com,EduWorks,Healthcare,Manager,Boston,925,0.67,1
+Eric Kelly,cynthiadavenport@example.com,AutoDrive,Software,Engineer,Chicago,562,0.87,0
+Drew Cook,scott44@example.org,EduWorks,Energy,Director,New York,158,0.11,0
+David Brock,onealchristine@example.net,FinServe,Automotive,Intern,Seattle,975,0.63,0
+Adam Reed,baileyromero@example.org,GreenEnergy,Education,Intern,New York,363,0.69,0
+Steven Baker,laurenwalker@example.org,BuildCorp,Energy,Intern,Seattle,312,0.63,0
+Jennifer David,claudia96@example.com,AutoDrive,Healthcare,Manager,San Francisco,775,0.7,1
+Cole Simmons,jessica81@example.com,TechSoft,Education,VP,Boston,527,0.13,0
+Lisa Mckinney,qkemp@example.com,TechSoft,Finance,Manager,Chicago,902,0.6,1
+Ryan Harvey,lesterjeffrey@example.net,AutoDrive,Education,Consultant,Austin,270,0.63,0
+Ann Ramirez,john12@example.org,FinServe,Energy,VP,Austin,185,0.58,1
+Deborah Jordan,oproctor@example.org,TechSoft,Automotive,Analyst,San Francisco,146,0.01,0
+Mary Chavez,nicolejohnson@example.net,AutoDrive,Education,Consultant,Austin,501,0.88,0
+Chelsey Alexander,nhansen@example.com,HealthPlus,Construction,Manager,Boston,99,0.84,0
+Kimberly French,parkerjames@example.com,TechSoft,Construction,Manager,Chicago,315,0.06,0
+Shawn Wright,rachel48@example.org,FinServe,Energy,VP,New York,817,0.9,1
+Anthony Schmidt,xyoung@example.net,BuildCorp,Education,VP,Seattle,963,0.7,1
+Rebecca Collins,cynthia75@example.net,EduWorks,Healthcare,Consultant,New York,616,0.88,0
+Kelly Alvarez,heather12@example.com,TechSoft,Construction,Intern,San Francisco,804,0.74,0
+Samantha Allen,nmitchell@example.org,EduWorks,Healthcare,Consultant,Boston,817,0.7,0
+Kevin Blake,lukeguzman@example.org,BuildCorp,Healthcare,Engineer,Boston,167,0.58,0
+Michele Ellis,ryan70@example.net,TechSoft,Software,Intern,Boston,517,0.61,0
+George Mckinney,hclark@example.org,EduWorks,Education,Manager,Boston,568,0.49,0
+Bryan Lopez,matthew40@example.org,EduWorks,Construction,Intern,New York,711,0.39,0
+Lisa Phillips,darrellrivas@example.net,AutoDrive,Education,Consultant,Boston,484,0.97,0
+Kimberly Howell DDS,garciarachel@example.net,HealthPlus,Education,Director,Austin,670,0.16,0
+Meghan Manning,curtisrosales@example.net,FinServe,Energy,Director,Boston,273,0.5,0
+Marcus Ryan,alexismorris@example.com,BuildCorp,Healthcare,Engineer,Boston,430,0.23,0
+Erik Wright,abryant@example.org,EduWorks,Automotive,Analyst,Chicago,331,0.78,0
+Benjamin Morrison,littlechristina@example.org,EduWorks,Construction,Manager,Denver,149,0.5,0
+Timothy Shields,edward44@example.org,EduWorks,Finance,Manager,New York,957,0.79,1
+Heather Knight,zwheeler@example.com,BuildCorp,Energy,Director,Chicago,183,1.0,1
+Patricia White,john29@example.org,EduWorks,Energy,Intern,Seattle,72,0.27,0
+Joseph Campbell,gomezadam@example.com,BuildCorp,Healthcare,Analyst,Austin,496,0.92,0
+Gregg Proctor,ebarnes@example.com,GreenEnergy,Automotive,Analyst,Seattle,319,0.21,0
+Richard Haley,fmorrow@example.net,FinServe,Healthcare,Manager,San Francisco,931,0.72,1
+Francisco Griffin,iramirez@example.net,GreenEnergy,Healthcare,Intern,Seattle,137,0.22,0
+Elizabeth Pineda,lielizabeth@example.net,TechSoft,Education,Analyst,New York,840,0.75,0
+Mark Bennett,crystal11@example.com,FinServe,Construction,Engineer,Boston,960,0.38,0
+Carrie Wolfe,evansstephen@example.net,AutoDrive,Finance,Engineer,San Francisco,1000,0.35,0
+Jodi Waller,vincenthall@example.net,FinServe,Automotive,Manager,Seattle,857,0.65,1
+Christopher Kelly,mckinneykurt@example.net,FinServe,Education,Intern,Denver,478,0.76,0
+Gerald Copeland,hartkathryn@example.com,TechSoft,Software,Engineer,Chicago,968,0.7,0
+Brittany Long,brownkatie@example.net,BuildCorp,Finance,Engineer,Denver,253,0.8,0
+Christy Johnson,olsonmichael@example.com,AutoDrive,Software,Consultant,Boston,610,0.48,0
+Peter Moore,blackjackie@example.net,FinServe,Finance,Consultant,Boston,504,0.16,0
+Mary Olson,charleswashington@example.com,EduWorks,Healthcare,Analyst,Boston,378,0.61,0
+William Mckenzie,nicholas92@example.org,EduWorks,Automotive,VP,San Francisco,901,0.02,0
+Cathy Shea,snguyen@example.net,TechSoft,Energy,Manager,Austin,653,0.9,1
+Micheal Pruitt,madisonmartinez@example.org,BuildCorp,Automotive,Intern,Austin,605,0.86,0
+Brandon Arnold,ponceroger@example.net,TechSoft,Energy,Director,San Francisco,905,0.03,0
+Tyler Barton,fcooley@example.com,EduWorks,Healthcare,VP,Austin,335,0.51,1
+Cody Huffman,jimenezautumn@example.net,BuildCorp,Finance,Analyst,Denver,277,0.14,0
+Mark Cooley,bautistamarc@example.net,AutoDrive,Software,VP,San Francisco,867,0.91,1
+Kristen Goodman,paigemitchell@example.org,HealthPlus,Education,Director,San Francisco,94,0.37,0
+Mark Giles,gbyrd@example.net,TechSoft,Healthcare,Engineer,Boston,784,0.79,0
+Tara Lopez,reyesshannon@example.org,HealthPlus,Software,VP,New York,639,0.35,0
+Nathaniel Wells,sara70@example.com,AutoDrive,Healthcare,Director,Seattle,908,0.66,1
+Mr. Andrew Garcia Jr.,briangarcia@example.org,BuildCorp,Education,Manager,Denver,997,0.99,1
+Timothy James,holtpenny@example.com,FinServe,Construction,Consultant,Denver,934,0.88,0
+Timothy Martinez,madison97@example.com,AutoDrive,Automotive,Intern,Chicago,350,0.09,0
+James Shelton,rachellee@example.com,GreenEnergy,Education,Intern,Denver,101,0.23,0
+Lisa Alvarez,johnwilson@example.org,FinServe,Energy,Engineer,Chicago,682,0.4,0
+Mr. Douglas Coleman,laura76@example.net,BuildCorp,Education,Director,Boston,871,0.72,1
+Kristina Brown,mistyvega@example.com,EduWorks,Software,VP,San Francisco,483,0.76,1
+Jeffery Roberts,acortez@example.org,GreenEnergy,Finance,Consultant,Denver,363,0.6,0
+Mark Collins,nancy57@example.net,GreenEnergy,Healthcare,Director,Denver,489,0.83,1
+John Rodriguez,eshaw@example.net,AutoDrive,Construction,Engineer,San Francisco,462,0.93,0
+Jennifer Foster,michaelhuffman@example.org,TechSoft,Education,Engineer,Boston,574,0.18,0
+Joshua Smith,kanetimothy@example.com,BuildCorp,Healthcare,Director,Seattle,967,0.94,1
+Raymond Gardner Jr.,staceychase@example.org,TechSoft,Software,Intern,Chicago,177,0.94,0
+Jeffrey Rodgers,rhondavillanueva@example.net,BuildCorp,Education,Director,Austin,153,0.42,0
+Amy Alvarado,savagedustin@example.org,FinServe,Energy,Director,Chicago,443,0.81,1
+Kari Werner,vking@example.com,FinServe,Software,Intern,Boston,322,0.92,0
+Keith Cortez,dleach@example.net,HealthPlus,Automotive,Director,Seattle,362,0.79,1
+Luis Walker,torresjohn@example.net,HealthPlus,Finance,VP,Chicago,100,0.06,0
+Ryan Lee,lorraine88@example.com,TechSoft,Healthcare,VP,Austin,345,0.97,1
+Natalie Elliott,jgonzalez@example.org,FinServe,Finance,Manager,Seattle,104,0.45,0
+Donna Williams,davidnorton@example.org,TechSoft,Software,Director,New York,887,0.54,1
+Alexander Washington,andrewjones@example.com,EduWorks,Finance,Engineer,Austin,358,0.48,0
+Tracey Chandler,lisa16@example.net,GreenEnergy,Healthcare,Consultant,Boston,562,0.92,0
+Ryan Nguyen,leetammy@example.com,HealthPlus,Education,Consultant,New York,963,0.78,0
+Rachel Patel,anthony76@example.net,AutoDrive,Construction,Director,Austin,50,0.44,0
+Edward Smith,smithtristan@example.org,EduWorks,Software,VP,Boston,960,0.34,0
+Victoria Hernandez,ryanserrano@example.net,FinServe,Energy,Analyst,New York,802,0.0,0
+Samuel Pearson,emily95@example.net,GreenEnergy,Software,Intern,San Francisco,939,0.0,0
+Brandy Barber,taylorsavage@example.org,AutoDrive,Construction,Consultant,Denver,112,0.89,0
+Jenna Faulkner,caitlinramos@example.net,GreenEnergy,Education,Consultant,Seattle,174,0.27,0
+Katherine Collins,sparksmaureen@example.org,BuildCorp,Finance,Analyst,Boston,271,0.45,0
+Michael Reilly,daughertyjennifer@example.com,HealthPlus,Software,Engineer,Seattle,630,0.07,0
+John Barry,yatkins@example.net,GreenEnergy,Construction,Director,New York,542,0.86,1
+Peter Nichols,rachel70@example.com,GreenEnergy,Energy,Engineer,Denver,577,0.96,0
+Brian Willis,kendrakent@example.net,EduWorks,Education,Intern,San Francisco,329,0.37,0
+Robert Gutierrez,ahoover@example.net,FinServe,Software,Analyst,Seattle,275,0.27,0
+Matthew Malone,cbecker@example.com,AutoDrive,Finance,Intern,Denver,702,0.51,0
+Madison Allen,xbailey@example.com,FinServe,Software,Engineer,Denver,772,0.48,0
+Maria Sanders,amandadavis@example.com,EduWorks,Healthcare,VP,Boston,630,0.26,0
+Cheryl Baker,martinluis@example.com,TechSoft,Energy,Engineer,Austin,97,0.04,0
+Jeffrey Martinez,zperez@example.org,BuildCorp,Energy,VP,Denver,836,0.87,1
+Tyler Johnson,markseric@example.org,HealthPlus,Healthcare,Engineer,Chicago,219,0.07,0
+Erica Roberts,xmiller@example.org,GreenEnergy,Energy,Director,New York,289,0.35,0
+Jeffrey Solomon,jbaker@example.org,BuildCorp,Construction,Engineer,Austin,75,0.09,0
+Cesar Thornton,richard11@example.com,AutoDrive,Software,Manager,Denver,460,0.58,1
+Louis Wilkerson,cameroncrystal@example.net,HealthPlus,Construction,Consultant,Austin,640,0.21,0
+Karen Wright,bridgetpham@example.net,AutoDrive,Automotive,Analyst,Austin,971,0.42,0
+Kevin Vazquez,burtonjulie@example.org,TechSoft,Automotive,Manager,San Francisco,758,0.62,1
+Charles Griffin,johnsonmary@example.net,AutoDrive,Automotive,Consultant,Chicago,364,0.03,0
+Laura Duncan,mike83@example.com,FinServe,Construction,Analyst,Denver,853,0.68,0
+Cody Drake,whitechristopher@example.net,HealthPlus,Education,Consultant,Boston,189,0.65,0
+Robert Peterson,suesalas@example.org,EduWorks,Education,VP,Boston,247,0.84,1
+Michael Schwartz,robertfreeman@example.com,BuildCorp,Construction,Analyst,Chicago,449,0.15,0
+Michael Jackson,kevinanderson@example.org,EduWorks,Software,VP,Austin,352,0.12,0
+Ariel Ramsey,nbarrett@example.org,HealthPlus,Construction,Intern,San Francisco,770,0.93,0
+Charles Horton,amberpatterson@example.net,TechSoft,Automotive,Engineer,Denver,826,0.13,0
+Catherine Hernandez,kenneth88@example.com,HealthPlus,Finance,Intern,Austin,530,0.58,0
+Douglas Smith,reeserose@example.com,FinServe,Automotive,Consultant,Denver,374,0.02,0
+Emily Barnett,qwatson@example.org,AutoDrive,Education,Director,Seattle,658,0.82,1
+Susan Thomas,wolferobert@example.net,BuildCorp,Automotive,Intern,Seattle,952,0.92,0
+Miss Carla Castro,brandon32@example.com,FinServe,Healthcare,Engineer,Chicago,770,0.07,0
+Robin Phillips,delacruzrachel@example.com,AutoDrive,Finance,Intern,New York,228,0.65,0
+Robert Oliver,kimberlyramos@example.org,BuildCorp,Energy,Intern,Boston,450,0.33,0
+Sara Williams,mkey@example.org,TechSoft,Finance,Director,Chicago,665,0.59,1
+Cory Woods,ilyons@example.org,BuildCorp,Software,Engineer,Seattle,829,0.66,0
+Jennifer Sawyer,petersrobert@example.org,TechSoft,Education,VP,San Francisco,129,0.34,0
+Darren Rogers,aaron12@example.org,TechSoft,Finance,Director,San Francisco,162,0.51,1
+Brianna Frederick,thomaslewis@example.net,AutoDrive,Healthcare,Engineer,Denver,568,0.29,0
+Anna Allen,barbaracombs@example.org,HealthPlus,Education,Consultant,Boston,714,0.87,0
+Philip Ramsey,ebrown@example.org,AutoDrive,Healthcare,Consultant,San Francisco,111,0.17,0
+Eric Hart,michael89@example.com,FinServe,Construction,Manager,Seattle,382,0.25,0
+Kaitlin Ellis,fspencer@example.org,HealthPlus,Automotive,Engineer,San Francisco,171,0.39,0
+Jordan Morales,wmiller@example.net,BuildCorp,Automotive,Director,Denver,805,0.71,1
+Lisa Fisher,cameron84@example.com,HealthPlus,Education,Director,Chicago,915,0.24,0
+Sean Hansen,xtaylor@example.org,EduWorks,Automotive,Engineer,San Francisco,871,0.28,0
+Crystal Edwards,xsanchez@example.net,FinServe,Automotive,VP,Boston,567,0.89,1
+Veronica Gomez,anthony92@example.org,BuildCorp,Education,Consultant,Austin,284,0.95,0
+Douglas Moses,courtneyscott@example.net,HealthPlus,Energy,Intern,New York,994,0.11,0
+Kristy Smith,garciadesiree@example.com,TechSoft,Education,VP,Denver,668,0.59,1
+Jason Roberts,cortezaaron@example.org,BuildCorp,Software,Analyst,Austin,59,0.49,0
+Kathy Montoya,laurastevens@example.org,GreenEnergy,Automotive,VP,Austin,397,0.62,1
+Ronnie Holmes,jennifertran@example.org,TechSoft,Education,VP,Chicago,205,0.03,0
+Linda Williams,laurathomas@example.com,EduWorks,Finance,Analyst,Seattle,600,0.45,0
+Russell Martinez,katherinesutton@example.org,TechSoft,Energy,VP,New York,999,0.08,0
+Maureen Ford,nrice@example.org,AutoDrive,Education,Engineer,New York,434,0.1,0
+Isabel Baker,xwoods@example.net,GreenEnergy,Software,Analyst,Chicago,653,0.51,0
+Mary Hubbard,zimmermanmary@example.com,TechSoft,Construction,Analyst,Boston,330,0.3,0
